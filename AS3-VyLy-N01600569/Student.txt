@@ -1,0 +1,10 @@
+1|Amber|Heard|38|Female|ClassA|85
+2|Scarlett|Johansson|40|Female|ClassB|87
+3|Jonny|Depp|50|Male|ClassA|80
+4|Angelina|Jolie|59|Female|ClassC|92.7
+5|Jennifer|Aniston|50|Female|ClassB|87.2
+6|Brad|Pitt|58|Male|ClassC|79.8
+7|Tom|Cruise|59|Male|ClassA|88.9
+8|Megan|Fox|35|Female|ClassB|84.6
+9|Robert|Pattinson|47|Male|ClassC|91.1
+10|George|Clooney|65|Male|ClassA|82.4

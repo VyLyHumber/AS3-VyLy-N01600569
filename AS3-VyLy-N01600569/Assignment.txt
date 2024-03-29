@@ -1,0 +1,6 @@
+1|202|Assignment2|90|100
+2|101|Assignment1|95|100
+2|202|Assignment2|85|100
+3|101|Assignment1|75|100
+3|202|Assignment2|85|100
+4|203|Assignment3|98|100
